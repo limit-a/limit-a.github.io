@@ -1,8 +1,25 @@
 ---
 title: 노마드코더 코코아톡 클론 코딩
+layout: single
+read_time: true
+share: true
+related: true
+popular: true
+categories:
+  - Nomad Coders
+toc: true
+toc_sticky: true
+toc_label: 목차
+description: 노마드코더 코코아톡 클론 코딩 수업과 2주간 챌린지를 마치고서 해당 수업을 '왜' 했는지, 시작했을 때 세웠던 목표를 달성했는지, 잘한 점과 아쉬운 점은 무엇인지, 다시 듣는다면 어떤 부분을 다르게 진행해보겠는지를 리뷰하는 페이지
+article_tag1: HTML & CSS
+article_tag2: Kokoa Talk
+article_tag3: Nomad Coders
+article_section: 노마드코더 코코아톡 클론 코딩 리뷰
+meta_keywords: HTML,CSS,flex design,BEM 방법론,노마드코더
+last_modified_at: 2021-01-29T00:00:00+08:00
 ---
 
-노마드코더 코코아톡 클론 코딩 수업과 2주간 챌린지를 마치고서 간단히 리뷰를 위해 이 글을 쓴다.
+노마드코더 코코아톡 클론 코딩 수업과 2주간 챌린지를 마치고서 리뷰를 위해 이 글을 쓴다.
 
 ## 해당 수업을 '왜' 했는지, 그리고 리뷰를 '왜' 하는가?
 
@@ -29,4 +46,6 @@ HTML과 CSS는 이전에 공부를 한 경험이 있지만 잘 만든다고 말�
 
 ## 다시 이 수업을 듣는다면 어떤 부분을 다르게 진행해보겠는가?
 
-코딩 과제를 할 때, 좀 더 노력해서 더 많은 반응형 디자인이 들어간 페이지를 만들고 싶다. 여러 디자인을 실험해가며 만들어 보아야 비로소 실력이 늘어난다고 본다.
+아쉬운 점에서 말했듯이, 코딩 과제에서 좀 더 반응형 디자인이 들어간 페이지를 만들고 싶다.
+
+각각의 컴포넌트에 어떤 디자인이 괜찮은지, 여러가지 실험해가며 만들어 보아야 진정한 실력이 늘어날 것이다.
