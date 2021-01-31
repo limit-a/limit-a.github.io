@@ -8,14 +8,3 @@
 .open-new {
   cursor: pointer;
 }
-
-$indent-var: 1em;
-
-.page__content p {
-  margin: 0 0 $indent-var;
-  text-indent: $indent-var;
-  // sibling indentation
-  & + p {
-    margin-top: -($indent-var);
-  }
-}
