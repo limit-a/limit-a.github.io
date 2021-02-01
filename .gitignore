@@ -27,3 +27,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# Do not post yet
+_posts/2020-11-26-blog.md
