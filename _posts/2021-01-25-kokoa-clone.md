@@ -6,28 +6,27 @@ share: true
 related: true
 popular: true
 categories:
-  - Nomad Coders
+- Nomad Coders
 toc: true
 toc_sticky: true
 toc_label: 목차
-description:
-  노마드코더 코코아톡 클론 코딩 수업과 2주간 챌린지를 마치고서 해당 수업을 '왜' 했는지, 시작했을 때 세웠던 목표를 달성했는지,
+description: 노마드코더 코코아톡 클론 코딩 수업과 2주간 챌린지를 마치고서 해당 수업을 '왜' 했는지, 시작했을 때 세웠던 목표를 달성했는지,
   잘한 점과 아쉬운 점은 무엇인지, 다시 듣는다면 어떤 부분을 다르게 진행해보겠는지를 리뷰하는 페이지
 article_tag1: HTML & CSS
 article_tag2: Kokoa Talk
 article_tag3: Nomad Coders
 article_section: 노마드코더 코코아톡 클론 코딩 리뷰
 meta_keywords: HTML,CSS,flex design,BEM 방법론,노마드코더
-last_modified_at: "2021-01-31 00:00:00 +0800"
+last_modified_at: '2021-01-31 00:00:00 +0800'
 ---
 
 &ensp;&ensp;노마드코더 코코아톡 클론 코딩 수업과 2주간 챌린지를 마치고서 리뷰를 위해 이 글을 쓴다.
 
 ## 해당 수업을 '왜' 했는지, 그리고 리뷰를 '왜' 하는가?
 
-&ensp;&ensp;바닐라 자바스크립트를 위한 수업을 찾다가, 시중의 어플리케이션 (카카오톡 같이) 을 구현해보는 '클론 코딩' 을 통해 만들어 가며 코딩을 배운다는 것에 감명(?)받아, 바로 결제를 해서 수업과 '챌린지' 에 도전했다.
+&ensp;&ensp;Vanilla Javascript를 위한 수업을 찾다가, 시중의 어플리케이션 (카카오톡 같이) 을 구현해보는 '클론 코딩' 을 통해 만들어 가며 코딩을 배운다는 것에 감명(?)받아, 바로 결제를 해서 수업과 '챌린지' 에 도전했다.
 
-&ensp;&ensp;처음에 듣고 싶었던 자바스크립트 수업을 시작했어도 됐지만, 사이트의 학습 로드맵을 참고하여 선행 학습을 위해, HTML & CSS 를 배우는 코코아톡 클론 코딩 수업을 들었다.
+&ensp;&ensp;처음에 듣고 싶었던 Javascript 수업을 시작했어도 됐지만, 사이트의 학습 로드맵을 참고하여 선행 학습을 위해, HTML & CSS 를 배우는 코코아톡 클론 코딩 수업을 들었다.
 
 &ensp;&ensp;HTML과 CSS는 이전에 공부를 한 경험이 있지만 잘 만든다고 말할 수 없는 실력이기에, 수업을 통해서 몰랐던 방법이나 노하우들을 배울 수 있었고, 이 리뷰를 통해 그것들을 다시 되새기고자 한다.
 
