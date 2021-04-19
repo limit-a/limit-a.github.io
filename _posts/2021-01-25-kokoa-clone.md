@@ -6,12 +6,11 @@ share: true
 related: true
 popular: true
 categories:
-- Nomad Coders
+  - Nomad Coders
 toc: true
 toc_sticky: true
 toc_label: 목차
-description: 노마드코더 코코아톡 클론 코딩 수업과 2주간 챌린지를 마치고서 해당 수업을 '왜' 했는지, 시작했을 때 세웠던 목표를 달성했는지,
-  잘한 점과 아쉬운 점은 무엇인지, 다시 듣는다면 어떤 부분을 다르게 진행해보겠는지를 리뷰하는 페이지
+description: 노마드코더 코코아톡 클론 코딩 수업과 2주간 챌린지를 마치고서 해당 수업을 '왜' 했는지, 시작했을 때 세웠던 목표를 달성했는지, 잘한 점과 아쉬운 점은 무엇인지, 다시 듣는다면 어떤 부분을 다르게 진행해보겠는지를 리뷰하는 페이지
 article_tag1: HTML & CSS
 article_tag2: Kokoa Talk
 article_tag3: Nomad Coders
