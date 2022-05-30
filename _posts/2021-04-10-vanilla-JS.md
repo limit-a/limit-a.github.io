@@ -6,7 +6,7 @@ share: true
 related: true
 popular: true
 categories:
-  - Nomad Coders
+  - Nomad-Coders
 toc: true
 toc_sticky: true
 toc_label: 목차
